@@ -1,0 +1,14 @@
+project:
+  name: worldcup_ml
+
+paths:
+  bronze: data/bronze
+  silver: data/silver
+  gold: data/gold
+  raw: data/raw
+
+api_football:
+  base_url: https://v3.football.api-sports.io
+
+validation:
+  fail_fast: true
