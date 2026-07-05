@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+requests
+pyyaml
+python-dotenv
+loguru
+dvc
+pandera
+mlflow
+tqdm
