@@ -1,0 +1,19 @@
+[project]
+name = "worldcup-ml"
+version = "0.1.0"
+description = "World Cup 2026 predictive pipeline"
+requires-python = ">=3.10"
+
+dependencies = [
+  "pandas",
+  "numpy",
+  "scikit-learn",
+  "requests",
+  "pyyaml",
+  "python-dotenv",
+  "loguru",
+  "pandera",
+  "dvc",
+  "mlflow",
+  "tqdm"
+]
